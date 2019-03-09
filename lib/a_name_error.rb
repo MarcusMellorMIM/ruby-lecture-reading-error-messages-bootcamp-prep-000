@@ -1,3 +1,3 @@
-hello_world = "hello world"
+irbhello_world = "hello world"
 
 puts hello_world
